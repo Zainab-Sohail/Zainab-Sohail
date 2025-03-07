@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zainab-Sohail
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on back-end projects
 - 📫 How to reach me via github inbox
 - 😄 Pronouns: she/her
